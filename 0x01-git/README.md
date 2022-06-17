@@ -1,1 +1,2 @@
-A subdirectory in alx-pre_course
+A subdirectory in alx-pre_course.
+Some little tweaks.
